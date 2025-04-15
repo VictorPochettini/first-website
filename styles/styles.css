@@ -3,10 +3,23 @@ html {
     font-family:
       "Open Sans", sans-serif; /* this should be the rest of the output you got from Google Fonts */
   }
-  
 
-body
+#a1
 {
-    background-color : black;
-    color : white;
+    font-size: 20px;
+}
+
+#h1n1
+{
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+}
+
+#h1n2
+{
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 5px 5px 2px black;
 }
